@@ -17,7 +17,7 @@
 real h_min = 1.e-13; // minimum time step
 // real t;
 // real t_end;
-double dt; // the time step specified by the user
+extern double dt; // the time step specified by the user
 // real close_encounter_distance = 0.0;  // if 0, ignore close encounters
 // size_t close_encounters = 0; // number of close encounters
 

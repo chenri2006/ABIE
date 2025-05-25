@@ -67,7 +67,7 @@ struct Simulation {
 typedef struct Simulation Simulation;
 
 // Allocate memory for an activate simulation instance
-Simulation sim;
+extern Simulation sim;
 
 
 // Getters/Setters
